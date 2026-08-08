@@ -1,0 +1,6 @@
+{
+  "name": "FOODII",
+  "description": "Artisanal food e-commerce experience featuring interactive product showcase, gourmet snacks, and express checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
